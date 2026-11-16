@@ -5,11 +5,11 @@
 
 //#define USE_INTRANET
 
-#define LOCAL_SSID "Cedim FIM UNI"
-#define LOCAL_PASS "Cedim2022_2"
+#define LOCAL_SSID "your-wifi-ssid"
+#define LOCAL_PASS "your-wifi-password"
 
-#define AP_SSID "anpr22"
-#define AP_PASS "1234"
+#define AP_SSID "your-ap-ssid"
+#define AP_PASS "your-ap-password"
 
 const int infra=15; const int infra2=2;const int infra3=4;
 bool status1 = true; bool status2=true; bool status3=true;
