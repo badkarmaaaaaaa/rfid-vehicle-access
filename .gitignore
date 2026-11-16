@@ -1,0 +1,13 @@
+# ccs c compiler output
+*.cof
+*.err
+*.esym
+*.hex
+*.lst
+*.sym
+*.tre
+*.xsym
+*.STA
+
+# editor backups
+__history/
